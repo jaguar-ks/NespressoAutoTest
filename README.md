@@ -85,5 +85,5 @@ Current automated coverage:
 -  │   ├── [`tests/__init__.py`](tests/__init__.py)
 -  │   ├── [`tests/test_navigating_to_coffee_mugs.py`](tests/test_navigating_to_coffee_mugs.py)
 -  │   └── [`tests/test_sign_in.py`](tests/test_sign_in.py)
--  ├── [`.env`](.env) *(local credentials, gitignored)*
--  └── [`report.html`](report.html) *(generated test report)*
+-  ├── `.env` *(local credentials, gitignored)*
+-  └── `report.html` *(generated test report)*
